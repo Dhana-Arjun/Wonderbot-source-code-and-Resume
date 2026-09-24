@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Y42HoYwVvkmN4fFC6e3B0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html" DesignTimeRectangle="978, 503, 725, 46" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='P' /&gt;" Guid="23f95482-942d-4ac3-8c8a-6f414f8e80e4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='It&amp;apos;s Only the Himalayas | Books to Scrape - Sandbox' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="084f3d111f200890be6bce6aa562686a.jpg" xmlns="">0PUb6-hpqBU-LX7_CWURrAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

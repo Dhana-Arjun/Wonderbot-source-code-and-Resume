@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ohKED366C0-H9Eb4B1Z0gw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="practicetestautomation.com/logged-in-successfully" DesignTimeRectangle="500, 393, 919, 68" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H1' aaname='Logged In Successfully' /&gt;" Guid="2d0ee6fd-eb95-455e-a073-12750fa56fdc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Logged In Successfully | Practice Test Automation' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="61df8c2740941aabaa941385c62d7196.jpg" xmlns="">04hlg06ooA0OzI13rN2sErg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

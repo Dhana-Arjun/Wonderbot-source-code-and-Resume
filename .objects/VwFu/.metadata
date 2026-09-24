@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Test Login  Practice Test Automation",
+  "Type": "App",
+  "Id": "VwFuwkSVJkeSrTyiTF_2lg",
+  "Reference": "aAzKSc5qC0C8cT2yxsPGRA/VwFuwkSVJkeSrTyiTF_2lg",
+  "Created": "2026-08-31T09:51:47.2338598Z",
+  "Updated": "2026-08-31T09:51:47.2338598Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

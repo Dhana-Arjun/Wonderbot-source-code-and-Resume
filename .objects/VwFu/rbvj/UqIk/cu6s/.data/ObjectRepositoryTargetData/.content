@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wJx3q-yGmESsu8Ac8VEp7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="practicetestautomation.com/practice-test-login" DesignTimeRectangle="584, 524, 160, 68" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='submit' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='submit' tag='BUTTON' type='' class='btn' aaname='Submit' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Submit' /&gt;" Guid="dcd41fa1-d63a-43c2-9327-c31bc1a370d5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Test Login | Practice Test Automation' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cd5ad7c3750a9c36a2bcdc86bdccbf95.jpg" xmlns="">0NqcP8i5a0U2qWrOgYvHmQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
